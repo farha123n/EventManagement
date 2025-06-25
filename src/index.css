@@ -1,0 +1,24 @@
+
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+.bg-primary{
+  background-color: #1f1f1f;
+}
+.text-primary{
+  color: #1f1f1f;
+}
+.text-accent{
+  color: #ffffff;
+}
+.bg-accent{
+  background-color:#ffffff ;
+}
+
+.text-highlight{
+  color:#ffcc00
+}
+.bg-highlight{
+  background-color: #ffcc00;
+}
